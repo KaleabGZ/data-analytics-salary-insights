@@ -44,8 +44,8 @@ The Python notebook includes:
 An **interactive dashboard** was created in Tableau to visualize:
 - 🌐 Salary by Country (heatmap)
 - 🧑‍💼 Salary by Experience Level (Entry, Mid, Senior)
-- 🏢 Company Size vs. Pay
-- 📅 Salary trends over time (if data permits)
+- 🏢 Job type by Remote Work
+- 📅 Salary distribution on different roles
 
 🔗 View the dashboard here:  
 👉 [**Tableau Public Link**](https://public.tableau.com/app/profile/kaleab.gebru/viz/JobMarketVisualization/Sheet5?publish=yes)
